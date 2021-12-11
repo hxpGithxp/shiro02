@@ -39,6 +39,11 @@ public interface UserMapper {
      */
    public  Set<String> getPermissionByUserName(String username);
 
+
+
+
+
+
     /**
      * 查询所有用户
      * @return
